@@ -6,7 +6,7 @@ Time spent: **1** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
+**Debug-a-thon** is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  
 
 If I had to describe this project in three (3) emojis, they would be: ** 🤓🧠🤯**
 
